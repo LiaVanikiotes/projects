@@ -1,0 +1,17 @@
+Thanks to Alextheanalyst for the excel project video. 
+
+This is my very first Excel project. For the data cleaning part and the third table in the dashboard "commute distance and bike purchase" alex's video was of great help.
+ 
+Moving on, after cleaning the data I did some basic EDA analysis, using conditional formatting, in order to formulate hypotheses that I could then visualize in order to explore more. 
+In the EDA sheet I went ahead and created a new column named "Income groupings". There using nested "if" formulas I organized the income based on certain ranges,
+so that it is easier to interpret. The ranges for the classification of the income was retrieved from this website:
+https://money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the-american-economic-class-system. 
+
+The insights gained from the dashboard could be used in a hypothetical senario for developing a strategic marketing framework. 
+It can be used to guide the planning process especially the segmentation part of it. Through the Geographic and Demographic information given by the dashboard, 
+an effective segmentanion plan can take place, accordingly, followed by the profiling stage. For example, one way that profiling can be done, based on the data analysis, is by revenue.
+Next and final step is the development of an effective strategy. Based on the insights from the dashboard that may include targeted ads or different pricing and discounts according to 
+the region, marital status etc. 
+
+In conclusion this data analysis can be used in this hypothetical scenario in order for SMART goals to be set.
+
